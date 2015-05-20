@@ -36,7 +36,7 @@ This pattern provides greater network scalability and a more dynamic network top
 To demonstrate Pubnub's ease of use we've incorporated <a href="http://www.pubnub.com/developers/demos/10chat/">10chat</a>, a simple 10-line javascript chat app into a Trigger.io app, as follows:
 
 1. In the Trigger Toolkit, create a new app.
- <img src="2.png">
+ <img src="img/2.png">
 2. Under `Config / Tools`, specify whether you want the app to run on a specific device or emulator, and specify the path to the appropriate SDK <img src="img/3.png">
 3. Now let's give it a test run! Under `Forge`, click either `Android` or `iOS` to run it on the appropriate platform, or click `Web` to run it in a browser window.
 4. You should see something like this:<img src="img/5.png">
